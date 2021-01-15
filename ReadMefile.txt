@@ -1,5 +1,1 @@
-masterbranch
-branchA
-branchB
-masterbranch
-
+branchB-------------- Initial commit
