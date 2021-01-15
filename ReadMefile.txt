@@ -1,5 +1,6 @@
-1.masterbranch --------------- Initial commit.
-1.developbranch--- Initialcommit
 branchA---Initail Commit
 2 This is branchA second commit.
-branchB-------------- Initial commit
+1) branchB-------------- Initial commit
+2) Second commit to the branch B.
+1.developbranch--- Initialcommit
+1.masterbranch --------------- Initial commit.
